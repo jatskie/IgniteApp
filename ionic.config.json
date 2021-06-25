@@ -1,0 +1,7 @@
+{
+  "name": "igniteApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
